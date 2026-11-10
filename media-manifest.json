@@ -1,0 +1,16 @@
+{
+  "project": "Agent-Readiness Auditor",
+  "reviewed": "2026-11-10",
+  "assets": [
+    {
+      "path": "media/overview.png",
+      "bytes": 209166,
+      "sha256": "fb2874b71724ca7d294b7a9dbab44f10ec5099bea6212f0aabca361b2347f4cf"
+    },
+    {
+      "path": "media/walkthrough.mp4",
+      "bytes": 1895825,
+      "sha256": "f53c0bef7d68c93b798245b4450e41fd5a94b0b97af883083d09d71804d5d86d"
+    }
+  ]
+}
